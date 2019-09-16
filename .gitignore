@@ -1,3 +1,4 @@
 .idea/
 __pycache__/
 cows.pyc
+test_cows.pyc
